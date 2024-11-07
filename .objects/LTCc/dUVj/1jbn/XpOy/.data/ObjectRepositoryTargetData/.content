@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OzoccRVsyUeCQYF5wOBwPA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSfN6eSMNgB9VsdPBv5kpf77mAFkOvtfC7ArfLM8a9jIPOsYJg/viewform" CVScreenId="10fbe8ce-5958-4c07-92af-8f1dc33e55e1" CvElementArea="394, 575, 87, 35" CvTextArea="414, 585, 46, 12" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="416, 576, 43, 32" DesignTimeScaleFactor="0.8999999761581421" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Submit' tag='SPAN' type='' class='NPEfkd RveJvd snByac' check:innerText='Submit' /&gt;" Guid="2ab45fe8-e7b3-477c-b7cd-2e0077b3ad49" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled form' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="10fbe8ce-5958-4c07-92af-8f1dc33e55e1" CvElementArea="394, 575, 87, 35" CvTextArea="414, 585, 46, 12" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="395, 576, 85, 32" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Submit' aria-role='button' tag='DIV' type='' class='uArJ5e UQuaGc Y5sE8d VkkpIf QvWxOd' aaname='' check:innerText='Submit' /&gt;" Guid="4ea12443-611e-4604-a7b1-df16afa355e7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d2ec64441a0d0e1aabac2c7f0c716bf0.png" xmlns="">0j6IjSJ1ziEiaE5QgBKqTeg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

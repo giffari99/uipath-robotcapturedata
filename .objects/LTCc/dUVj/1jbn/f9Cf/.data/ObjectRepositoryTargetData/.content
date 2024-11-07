@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-rkhj3U3Y0qKLzq7VqnA5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/1WXC91xcoy2djm-7HD8k6nmlRIezaGO7kgYIT9sDURbk/edit" CVScreenId="4a151eec-e2e0-4543-a164-d519b25c6403" CvElementArea="360, 446, 326, 30" CvType="InputBox" DesignTimeRectangle="360, 452, 324, 21" DesignTimeScaleFactor="0.8999999761581421" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-label='Short answer text' tag='INPUT' type='text' class='Hvn9fb zHQkBf' aaname='' /&gt;" Guid="5d513eb2-575f-4011-be51-a99f89b93599" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled form - Google Forms' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4a151eec-e2e0-4543-a164-d519b25c6403" CvTextArea="359, 414, 72, 13" CvTextArgument="First Name" CvType="Text" DesignTimeRectangle="360, 411, 70, 22" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-label='Question' aria-role='textbox' tag='DIV' type='' class='hj99tb KRoqRc editable' aaname='First Name' /&gt;" Guid="fbcbe244-615b-46eb-b9ac-c42f71edd0cf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="42e8d5bb0d940315c43c3ff8654dc44a.png" xmlns="">0AFQfZvisD0OrhUDU0zwUxA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

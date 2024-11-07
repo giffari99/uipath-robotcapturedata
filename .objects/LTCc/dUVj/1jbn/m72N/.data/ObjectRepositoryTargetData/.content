@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pkx07iNyrkSKZzg4rW1KPg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/1WXC91xcoy2djm-7HD8k6nmlRIezaGO7kgYIT9sDURbk/edit" CVScreenId="0a59d26d-cbd0-4787-9096-295b712fdcea" CvTextArea="386, 368, 31, 13" CvTextArgument="Male" CvType="Text" DesignTimeRectangle="386, 368, 30, 13" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzyMatches="10000" FuzzySelectorArgument="&lt;webctrl aria-label='option value' type='text' tag='INPUT' class='Hvn9fb zHQkBf' aaname='' /&gt;" Guid="9ed44500-7a22-481e-b3a4-458061de915d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled form - Google Forms' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c99080cb7d55764be53660ae3ba0118e.png" xmlns="">07HkzKp_bn0uSmOvX0hqr_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

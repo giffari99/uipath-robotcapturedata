@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Female",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "AuU2bBQ9RUCoB-m5Ii4wHw",
+  "Reference": "Ixso-CexL0yMDAeaX4Yu7Q/AuU2bBQ9RUCoB-m5Ii4wHw",
+  "ParentRef": "Ixso-CexL0yMDAeaX4Yu7Q/1jbnBOJjrkOPOZkzTMMmzA",
+  "Created": "2024-11-06T13:58:20.3519543Z",
+  "Updated": "2024-11-06T13:58:20.3519543Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
